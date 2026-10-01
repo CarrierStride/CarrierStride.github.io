@@ -1,0 +1,26 @@
+{
+  "name": "TG Эфир — 45 живых прокси для Телеграма на 15:33 МСК",
+  "short_name": "TG Эфир",
+  "description": "Список из 45 рабочих MTProto-прокси для Telegram на TG Эфир: наши серверы и проверенные публичные, пинг, мгновенное подключение.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf6f4",
+  "theme_color": "#9d4025",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
